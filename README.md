@@ -2,7 +2,7 @@
 
 ![Alt text](image.png)
 
-Website Link : [https://game-ft-6551.vercel.app/](https://game-ft-6551.vercel.app/)
+Website Link : [https://miny-game-ft-6551.vercel.app/](https://miny-game-ft-6551.vercel.app/)
 
 Welcome to GameFT-6551, First-Ever
 Exclusive erc-6551
